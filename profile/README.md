@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Open-source local AI video studio for product marketing &amp; UGC</strong><br>
-  <sub>Product &amp; Asset Library · Inspiration Teardown · Infinite Multimodal Canvas · Multi-Track Clip Studio — co-edited by you and your AI Agent on macOS &amp; Windows.</sub>
+  <sub>Product &amp; Asset Library | Inspiration Teardown | Infinite Multimodal Canvas | Multi-Track Clip Studio — co-edited by you and your AI Agent on macOS &amp; Windows.</sub>
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 </p>
 
 ---
+
+> **Primary Repository:** Start with [**`omnimux-ai/omnimux-client`**](https://github.com/omnimux-ai/omnimux-client) for desktop installers, plugins, 6,380+ assets, and 120+ skills.
 
 ### Core Open-Source Repositories
 
